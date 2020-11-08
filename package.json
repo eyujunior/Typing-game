@@ -1,0 +1,12 @@
+{
+  "name": "Typing game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://eyujunior.github.io/Typing-game"
+}
